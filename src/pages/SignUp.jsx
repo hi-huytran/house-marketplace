@@ -101,7 +101,7 @@ function SignUp() {
             />
           </div>
 
-          <Link to='/forgot-passsword' className='forgotPasswordLink'>
+          <Link to='/forgot-password' className='forgotPasswordLink'>
             Forgot Password
           </Link>
 
